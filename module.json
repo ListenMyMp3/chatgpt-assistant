@@ -1,0 +1,22 @@
+{
+    "id": "chatgpt-assistant",
+    "title": "ChatGPT Assistant",
+    "description": "Позволяет отправлять запросы ChatGPT прямо из FoundryVTT",
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "authors": [
+        {
+            "name": "Юрий",
+            "role": "developer"
+        }
+    ],
+    "esmodules": ["module.js"],
+    "packs": [],
+    "languages": [],
+    "url": "https://github.com/ListenMyMp3/chatgpt-assistant",
+    "manifest": "modules/chatgpt-assistant/module.json",
+    "download": "modules/chatgpt-assistant/module.js"
+}
