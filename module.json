@@ -17,6 +17,6 @@
     "packs": [],
     "languages": [],
     "url": "https://github.com/ListenMyMp3/chatgpt-assistant",
-    "manifest": "modules/chatgpt-assistant/module.json",
-    "download": "modules/chatgpt-assistant/module.js"
+    "manifest": "https://raw.githubusercontent.com/ListenMyMp3/chatgpt-assistant/module.json",
+    "download": "https://github.com/ListenMyMp3/chatgpt-assistant/archive/main.zip"
 }
